@@ -25,7 +25,7 @@ status = api.PostUpdate('I really enjoy studing in BU ECE. Major in Data Science
                         'But, I also need to put all my '
                         'energy in studying. I want to find some one to work together')
 
-status = api.PostUpdate('朱家辉和赵劲舟是好朋友，赵劲舟欠家辉100元')
+status = api.PostUpdate('朱家辉和赵劲舟是好朋友，赵劲舟是个tall guy')
 
 # print(status.text)
 
