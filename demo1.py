@@ -5,7 +5,7 @@ api = twitter.Api(consumer_key='qTzLMH5SOWoTO3EthGybTU9Uh',
                   access_token_key='1440792971234873344-DYQVxYr4pygqo4DNpwkP34c19EEhMB',
                   access_token_secret='piVEkV1MgGPnJAnMNLDxoaAzBouSGCgzVGc2nNX10DBOq')
 
-# Function2 : Get my Twitter Account info
+# Function1 : Get my Twitter Account info
 
 # print(api.VerifyCredentials())
 
@@ -30,6 +30,7 @@ status = api.PostUpdate('朱家辉和赵劲舟是好朋友，赵劲舟是个tall
 # print(status.text)
 
 # Function3 : Get the website contained messages I wanted, even search for twitter in some special places
+
 print(api.GetSearch(term='Boston University', since=2021 - 4 - 7, count=10))
 print(api.GetSearch(term='Kobe Bryant', since=2021 - 4 - 7, count=10))
 print(api.GetSearch(term='朱家辉和赵劲舟', since=2021 - 9 - 25, count=10))
