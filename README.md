@@ -19,3 +19,7 @@ A classification model analyzes a document and returns a list of content categor
 An entity extraction model inspects a document for known entities referenced in the document and labels those entities in the text.
 
 A sentiment analysis model inspects a document and identifies the prevailing emotional opinion within it, especially to determine a writer's attitude as positive, negative, or neutral.
+
+
+# For testing
+we just need to use the funtion in another file to make sure our code is working in any coditions.
