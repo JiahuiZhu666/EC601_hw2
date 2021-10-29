@@ -23,3 +23,6 @@ A sentiment analysis model inspects a document and identifies the prevailing emo
 
 # For testing
 we just need to use the funtion in another file to make sure our code is working in any coditions.
+See this:
+![52f42a0abda7c54d1ee0783908ef307](https://user-images.githubusercontent.com/87682737/139463497-3568bcbc-c180-4e90-b0fb-d6cbf94e818a.png)
+I just use my function in test file but it still work and we can check it in Twitter
