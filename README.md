@@ -1,3 +1,8 @@
+# Thanks for all the TAs 
+
+Thanks for Teaching Assistants Wiley Hunt, Feng Wang and Niantong Dong, their guidance and suggestion is very significant and really helpful!
+Studying with them is very happy!
+
 # EC601_hw2 Project2 Phase(1_a) Twitter API
 demo1:
 I create 3 part for 3 different functions.
