@@ -1,4 +1,4 @@
-# EC601_hw2(1_a) Twitter API
+# EC601_hw2 Project2 Phase(1_a) Twitter API
 demo1:
 I create 3 part for 3 different functions.
 First function is getting my Twitter Account info. This use function api.VerifyCredentials() to complete.
@@ -10,7 +10,7 @@ the finally function is to get other person's twitters. I type the special condi
 then get the website link to get in. Even I can type location to filter twitter. I use api.GetSearch() to do.
 
 
-# EC601_hw2(1_b) Google NLP API
+# EC601_hw2 Project2 Phase(1_b) Google NLP API
 demo2:
 AutoML Natural Language uses machine learning to analyze the structure and meaning of documents. You train a custom machine learning model to classify documents, extract information, or understand the sentiment of authors.
 
